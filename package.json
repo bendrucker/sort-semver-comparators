@@ -1,7 +1,7 @@
 {
   "name": "sort-semver-comparators",
   "main": "index.js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Sort semver comparators",
   "license": "MIT",
   "repository": "bendrucker/sort-semver-comparators",
