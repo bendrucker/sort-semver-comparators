@@ -1,4 +1,4 @@
-# sort-semver-comparators [![Build Status](https://travis-ci.org/bendrucker/sort-semver-comparators.svg?branch=master)](https://travis-ci.org/bendrucker/sort-semver-comparators)
+# sort-semver-comparators [![Build Status](https://travis-ci.org/bendrucker/sort-semver-comparators.svg?branch=master)](https://travis-ci.org/bendrucker/sort-semver-comparators) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/sort-semver-comparators.svg)](https://greenkeeper.io/)
 
 > Sort semver comparators
 
