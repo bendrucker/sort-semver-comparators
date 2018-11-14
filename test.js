@@ -11,7 +11,7 @@ test(function (t) {
   var string = sorted.map(function (comparator) {
     return comparator.value
   })
-  .join(' ')
+    .join(' ')
   t.equal(string, '>1.2.5 <2.0.0 >=3.0.0 >=5.0.0')
   t.end()
 })
